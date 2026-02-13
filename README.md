@@ -1,3 +1,46 @@
+🔥 FINAL MVP SCOPE 
+Public:
+
+Home
+
+Courses page
+
+Course detail page
+
+Login / Signup
+
+Student:
+
+Dashboard
+
+My Courses
+
+Course Player
+
+Admin:
+
+Create course
+
+Add modules
+
+Add lessons
+
+Publish course
+
+Payments:
+
+Stripe one-time payment
+
+Webhook → Create Enrollment
+
+No subscription.
+No coupons.
+No certificates (optional later).
+No membership logic.
+
+
+
+
 A) Goal
 
 “A global platform where students buy trading courses or subscribe to membership to learn step-by-step with progress tracking.”
@@ -48,6 +91,9 @@ Set “included in membership” and “one-time purchase”
 
 Basic order/subscription view
 
+
+
+
 C) “Not in MVP” (explicitly list so you don’t get distracted)
 
 Affiliate system
@@ -61,6 +107,7 @@ Advanced quizzes and grading
 Multi-instructor marketplace
 
 Certificates (optional; add later)
+
 
 D) Monetization Rules (very important)
 
